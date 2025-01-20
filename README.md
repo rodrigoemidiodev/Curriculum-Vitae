@@ -1,5 +1,9 @@
-<h1 align="center">Curriculum Vitae</h1>
+# Curriculum Vitae
+This repository contains my Curriculum Vitae with the latest updates.
 
-<p align="center">
-  <img src="https://github.com/rodrigoemidiodev/Curriculum-Vitae/blob/main/images/Curriculum_Vitae___Rodrigo_Em%C3%ADdio.png" alt="CV">
-</p>
+| Folder            | Description |
+| :-----------------| :--------------------------------------|
+| pdf               | Curriculum Vitae PDF file |
+| src               | Latex source code for Curriculum Vitae |  
+
+
